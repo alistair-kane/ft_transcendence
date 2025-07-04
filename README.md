@@ -22,4 +22,13 @@ Built using TypeScript, Angular and NestJS, the project emphasises modern web de
 ### Quick Start:
 
   -  create & set config of .env file
-  -  docker-compose up --build
+  -  ```docker-compose up --build```
+
+<p align="center">
+  <img src="screenshots/00.png" width="45%" />
+  <img src="screenshots/04.png" width="45%" /><br>
+  <img src="screenshots/02.png" width="45%" />
+  <img src="screenshots/05.png" width="45%" /><br>
+  <img src="screenshots/06.png" width="45%" />
+  <img src="screenshots/07.png" width="45%" /><br>
+</p>
